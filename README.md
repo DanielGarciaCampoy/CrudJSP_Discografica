@@ -35,3 +35,12 @@ En las siguientes capturas se mostrará todas las funciones de la página:
 ![anadido](https://user-images.githubusercontent.com/72436388/155399223-19ea5763-8455-453c-8165-54bf03eaf3c3.PNG)
 ![a2](https://user-images.githubusercontent.com/72436388/155399280-bf6ad014-67f1-4643-99e8-24cae8119103.PNG)
 
+  (Todas las funciones de añadido, borrado y modificado funcionan igual para la tabla de discográficas)
+
+4. Excepciones:
+  4.1. Si intento añadir una linea con un codigo que ya existe ocurre lo siguiente:
+  ![repetido1](https://user-images.githubusercontent.com/72436388/155399774-b6f5aea5-0c2f-4e3f-8f6a-d9ce7f0a4eb0.PNG)
+  ![repetido2](https://user-images.githubusercontent.com/72436388/155399784-aae02485-e6f1-4a5c-b69d-0d6263c4bfe6.PNG)
+  (Detecta que se ha repetido y no lo sube)
+  
+  
