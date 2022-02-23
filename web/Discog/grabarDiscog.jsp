@@ -34,7 +34,7 @@
                 %>
                     <div class="login-page">
                         <div class="form">
-                            <h2>No se ha podido dar de alta, ya existe un álbum con el código: <%out.println(request.getParameter("CodDiscog"));%></h2>
+                            <h2>No se ha podido dar de alta, ya existe una discográfica con el código: <%out.println(request.getParameter("CodDiscog"));%></h2>
                 <%
             } else {
                 //Insertar datos introducidos
