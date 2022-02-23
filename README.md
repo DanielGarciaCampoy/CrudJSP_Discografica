@@ -17,14 +17,21 @@ En las siguientes capturas se mostrará todas las funciones de la página:
 2.2. Lista discográficas: esta es la lista de discográficas, todo funciona igual que con la lista de álbumes
 ![2_2](https://user-images.githubusercontent.com/72436388/155397315-d6d96844-c17d-4d2d-a3fe-b0ba4172ec1b.PNG)
 
-3.1. Borrado, modificado y añadido en la tabla de álbumes:
-  - Borrado: Si pinchamos en borrar en cualquier línea, (yo por ejemplo lo haré en la 1era) saldrá lo siguiente:
+3. Borrado, modificado y añadido en la tabla de álbumes:
+  3.1. Borrado: Si pinchamos en borrar en cualquier línea, (yo por ejemplo lo haré en la 1era) saldrá lo siguiente:
     ![3_1](https://user-images.githubusercontent.com/72436388/155397867-6a704b69-e840-4b0c-bb15-c61d384ce561.PNG)
     
     Luego se puede comprobar que se ha borrado:
     ![3_11](https://user-images.githubusercontent.com/72436388/155398046-fb9c1de6-9118-43fc-b067-00bbe719857b.PNG)
 
-  - Modificado: si pinchamos en modificar en cualquier línea saldrá lo siguiente (he añadido una más (album1prueba) para este ejemplo)
+  3.2. Modificado: si pinchamos en modificar en cualquier línea saldrá lo siguiente (he añadido una más (album1prueba) para este ejemplo)
    ![Captura2](https://user-images.githubusercontent.com/72436388/155398552-d58f6f2c-4b9b-42b6-b7ac-36a8d3ad083f.PNG)
  ![Captura3](https://user-images.githubusercontent.com/72436388/155398575-1d6cde9c-c9dd-4640-a157-08238c8c2d7b.PNG)
+  Se puede comprobar que se le ha cambiado el nombre al album con el códgo 2:
+  ![Captura4](https://user-images.githubusercontent.com/72436388/155398827-b1860caa-3d6c-42e0-9feb-f2bc2ee01e43.PNG)
+
+  3.3. Añadido: Si en el formulario que aparece encima de la lista de álbumes introducimos datos, y presionamos en añadir, dichos datos se añadirán a la tabla:
+  ![a](https://user-images.githubusercontent.com/72436388/155399144-421100e0-8a61-48dc-b201-deb2858dd058.PNG)
+![anadido](https://user-images.githubusercontent.com/72436388/155399223-19ea5763-8455-453c-8165-54bf03eaf3c3.PNG)
+![a2](https://user-images.githubusercontent.com/72436388/155399280-bf6ad014-67f1-4643-99e8-24cae8119103.PNG)
 
