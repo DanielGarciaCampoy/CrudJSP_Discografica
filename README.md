@@ -6,4 +6,4 @@
 En las siguientes capturas se mostrará todas las funciones de la página:
 
 1. Login
-[Captura1](https://user-images.githubusercontent.com/72436388/155393826-11cb210d-65f4-4e98-b996-b65911c07cd5.PNG)
+(https://user-images.githubusercontent.com/72436388/155393826-11cb210d-65f4-4e98-b996-b65911c07cd5.PNG)
